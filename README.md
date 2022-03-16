@@ -1,0 +1,2 @@
+# shottas-java
+javascript
